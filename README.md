@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Hung Tuan</h1>
 <h3 align="center">A passionate developer from VietNam</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
